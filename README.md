@@ -1,5 +1,7 @@
 # raspberrypi-weather-station-with-smart-outlet
 
+https://youtu.be/l_32ZIOGg1o
+
 This is a extension of https://github.com/jm-hardware/Raspberry_pi_weather_station
 So check that out before doing this one
 
